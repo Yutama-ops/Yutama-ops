@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yutama-ops
+- 👋 Hi, I’m Yutama
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning python,
 - 💞️ I’m looking to collaborate on ecommerce project
