@@ -1,13 +1,11 @@
 <!-- HEADER - Luffy Gear 5 First Appearance Theme (White/Gold Lightning Aesthetic) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Yo!%20I'm%20Tama%20🏴‍☠️&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20|%20Cybersecurity%20Student%20&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=19&text=Yutama&reversal=true&desc=Full-Stack%20Engineer%20|%20Cybersecurity%20Student&descAlignY=55&descSize=16"/>
 </p>
 
 <!-- RICK AND MORTY GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI1Yjk2ZjV2d2Qwb2Vjb244NzBrOGZmYnh3eDA4cmNybTE0YWxrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNpXWzGIMRjIo4lXT8/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -40,19 +38,6 @@ hobbies:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yutama-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yutama-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yutama-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF&sideLabels=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="700"/>
-</p>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <p align="center">
@@ -70,14 +55,6 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yutama-ops&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
 </p>
 
 ---
@@ -124,5 +101,5 @@ hobbies:
 
 <!-- FOOTER - Luffy Gear 5 Theme (White/Gold Aesthetic) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=100&section=footer"/>
 </p>
