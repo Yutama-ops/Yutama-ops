@@ -1,6 +1,6 @@
 <!-- HEADER - Luffy Gear 5 First Appearance Theme (White/Gold Lightning Aesthetic) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Yo!%20I'm%20Tama%20🏴‍☠️&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20|%20Cybersecurity%20Student%20|%20Startup%20CTO&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Yo!%20I'm%20Tama%20🏴‍☠️&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20|%20Cybersecurity%20Student%20&descAlignY=55&descSize=16"/>
 </p>
 
 <!-- RICK AND MORTY GIF -->
