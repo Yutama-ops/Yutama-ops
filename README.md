@@ -1,11 +1,11 @@
 <!-- HEADER - Luffy Gear 5 First Appearance Theme (White/Gold Lightning Aesthetic) -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=180&section=header&text=Yo!%20I'm%20Tama%20🏴‍☠️&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20|%20Cybersecurity%20Student%20&descAlignY=55&descSize=16"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=180&section=header&text=Yo!%20I'm%20Tama%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20|%20Cybersecurity%20Student%20&descAlignY=55&descSize=16"/>
 </p>
 
 <!-- RICK AND MORTY GIF -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI1Yjk2ZjV2d2Qwb2Vjb244NzBrOGZmYnh3eDA4cmNybTE0YWxrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNpXWzGIMRjIo4lXT8/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI1Yjk2ZjV2d2Qwb2Vjb244NzBrOGZmYnh3eDA4cmNybTE0YWxrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNpXWzGIMRjIo4lXT8/giphy.gif" width="850"/>
 </p>
 
 ---
@@ -33,7 +33,7 @@ currently_building:
 hobbies:
   - Padel (4-6x weekly) 🎾
   - Coffee brewing ☕
-  - Anime & One Piece 🏴‍☠️
+  - One Piece 🏴‍☠️
 ```
 
 ---
